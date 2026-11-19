@@ -3,9 +3,9 @@
 ## Group Information
 - **Section:** EULM1
 - **Members:**
-  - Villabeto (Member 1, Group Leader)
-  - Legada (Member 2)
-  - Villanueva (Member 3)
+  - Villabeto (Member 1-HomePage, Group Leader)
+  - Legada (Member 2-AboutPage)
+  - Villanueva (Member 3-ContactPage)
 
 ## Theme
 Our website is themed around the National Museum of the Philippines – Butuan, showcasing its exhibits, artifacts, and cultural heritage. It invites visitors to discover Butuan’s rich history through an elegant, museum-inspired design.
