@@ -268,7 +268,8 @@
                 </div>
             </div>
 
-            <a href="{{ route('contact') }}" class="text-link">
+          <a href="/contact" class="text-link">Contact Us</a>
+
                 Plan Your Visit <span>↗</span>
             </a>
 
@@ -338,7 +339,8 @@
         Take a closer look at the stories that shaped Butuan.
     </p>
 
-    <a href="{{ route('contact') }}" class="button button-red">
+<a href="/contact" class="button button-red">Contact Us</a>
+
         Contact & Visit Information <span>↗</span>
     </a>
 

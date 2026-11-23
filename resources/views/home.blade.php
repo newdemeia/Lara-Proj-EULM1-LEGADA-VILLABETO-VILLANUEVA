@@ -52,11 +52,7 @@
             that connect Butuan’s past with its future.
         </p>
 
-<<<<<<< HEAD
-        <a class="button button-light" href="{{ route('contact') }}">
-=======
         <a class="button button-light" href="/contact">
->>>>>>> 3c04e50429d34c0f6f28cdae7e87fc8b7f2114d6
             Plan Your Visit <span aria-hidden="true">↗</span>
         </a>
     </div>
@@ -116,11 +112,7 @@
 
     <div class="museum-grid">
 
-<<<<<<< HEAD
-        <a class="museum-card" href="{{ route('about') }}">
-=======
         <a class="museum-card" href="/about">
->>>>>>> 3c04e50429d34c0f6f28cdae7e87fc8b7f2114d6
             <div class="card-image">
                 <img src="{{ asset('images/gallery1.jpg') }}"
                      alt="Traditional garments and textiles"
@@ -136,11 +128,7 @@
             </div>
         </a>
 
-<<<<<<< HEAD
-        <a class="museum-card" href="{{ route('about') }}">
-=======
         <a class="museum-card" href="/about">
->>>>>>> 3c04e50429d34c0f6f28cdae7e87fc8b7f2114d6
             <div class="card-image">
                 <img src="{{ asset('images/gallery2.jpg') }}"
                      alt="Museum gallery and historical objects"
@@ -156,11 +144,7 @@
             </div>
         </a>
 
-<<<<<<< HEAD
-        <a class="museum-card" href="{{ route('about') }}">
-=======
         <a class="museum-card" href="/about">
->>>>>>> 3c04e50429d34c0f6f28cdae7e87fc8b7f2114d6
             <div class="card-image">
                 <img src="{{ asset('images/gallery3.jpg') }}"
                      alt="Historic wooden boat remains"
@@ -176,11 +160,7 @@
             </div>
         </a>
 
-<<<<<<< HEAD
-        <a class="museum-card" href="{{ route('about') }}">
-=======
         <a class="museum-card" href="/about">
->>>>>>> 3c04e50429d34c0f6f28cdae7e87fc8b7f2114d6
             <div class="card-image">
                 <img src="{{ asset('images/gallery4.jpg') }}"
                      alt="Museum gallery with framed works"
@@ -221,11 +201,7 @@
             shaped our communities.
         </p>
 
-<<<<<<< HEAD
-        <a class="text-link" href="{{ route('about') }}">
-=======
         <a class="text-link" href="/about">
->>>>>>> 3c04e50429d34c0f6f28cdae7e87fc8b7f2114d6
             Get to know the museum <span>↗</span>
         </a>
     </div>
@@ -239,11 +215,7 @@
 
     <p>Plan a visit and explore the stories behind the exhibits.</p>
 
-<<<<<<< HEAD
-    <a class="button button-red" href="{{ route('contact') }}">
-=======
     <a class="button button-red" href="/contact">
->>>>>>> 3c04e50429d34c0f6f28cdae7e87fc8b7f2114d6
         Contact & Visit Information <span aria-hidden="true">↗</span>
     </a>
 </section>
