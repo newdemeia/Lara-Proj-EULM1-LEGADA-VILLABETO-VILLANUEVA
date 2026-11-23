@@ -297,5 +297,12 @@
 }
 
 /* Focus and hover styles for the contact form */
-#contactForm input:focus, #contactForm textarea:focus { outline: 2px solid #7a180e; outline-offset: 2px; }
-#contactForm button:hover { opacity: 0.9; }
+#contact-form input:focus,
+#contact-form textarea:focus {
+    outline: 2px solid #7a180e;
+    outline-offset: 2px;
+}
+
+#contact-form button:hover {
+    opacity: 0.9;
+}
