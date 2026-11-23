@@ -55,7 +55,11 @@
             </a>
 
             <a
+<<<<<<< HEAD
                 href="{{ route('about') }}"
+=======
+                href="/about"
+>>>>>>> 3c04e50429d34c0f6f28cdae7e87fc8b7f2114d6
                 class="{{ request()->routeIs('about') ? 'active' : '' }}"
                 @if(request()->routeIs('about')) aria-current="page" @endif
             >
@@ -63,7 +67,11 @@
             </a>
 
             <a
+<<<<<<< HEAD
                 href="{{ route('contact') }}"
+=======
+                href="/contact"
+>>>>>>> 3c04e50429d34c0f6f28cdae7e87fc8b7f2114d6
                 class="nav-cta {{ request()->routeIs('contact') ? 'active' : '' }}"
                 @if(request()->routeIs('contact')) aria-current="page" @endif
             >
@@ -106,8 +114,13 @@
                 <h3>Explore</h3>
 
                 <a href="{{ route('home') }}">Home</a>
+<<<<<<< HEAD
                 <a href="{{ route('about') }}">About the Museum</a>
                 <a href="{{ route('contact') }}">Contact</a>
+=======
+                <a href="/about">About the Museum</a>
+                <a href="/contact">Contact</a>
+>>>>>>> 3c04e50429d34c0f6f28cdae7e87fc8b7f2114d6
             </div>
 
             <div class="footer-links">

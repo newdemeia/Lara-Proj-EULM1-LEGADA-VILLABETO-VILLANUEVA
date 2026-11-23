@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -56,3 +57,46 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Lara-Proj-EULM1-Villabeto-Legada-Villanueva
+
+## Group Information
+- **Section:** EULM1
+- **Members:**
+  - Villabeto (Member 1-HomePage, Group Leader)
+  - Legada (Member 2-AboutPage)
+  - Villanueva (Member 3-ContactPage)
+
+## Theme
+Our website is themed around the National Museum of the Philippines – Butuan, showcasing its exhibits, artifacts, and cultural heritage. It invites visitors to discover Butuan’s rich history through an elegant, museum-inspired design.
+
+## Modules and Branches
+| Member | Module | Branch |
+|--------|--------|--------|
+| Villabeto | Setup, Layout, Home Page | dev-member1-Villabeto |
+| Legada | About Page | dev-member2-Legada |
+| Villanueva | Contact Page | dev-member3-Villanueva |
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### About Page
+![About Page](screenshots/about-page.png)
+
+### Contact Page
+![Contact Page](screenshots/contact-page.png)
+
+## Steps to Run the Project
+```bash
+git clone https://github.com/newdemeia/Lara-Proj-EULM1-VILLABETO-LEGADA-VILLANUEVA.git
+cd Lara-Proj-EULM1-Villabeto-Legada-Villanueva
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
+```
+Then open http://127.0.0.1:8000 in your browser.
+>>>>>>> 3c04e50429d34c0f6f28cdae7e87fc8b7f2114d6
