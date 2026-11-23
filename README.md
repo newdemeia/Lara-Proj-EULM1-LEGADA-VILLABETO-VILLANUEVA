@@ -30,7 +30,7 @@ Our website is themed around the National Museum of the Philippines – Butuan, 
 
 ## Steps to Run the Project
 ```bash
-git clone https://github.com/newdemeia/Lara-Proj-EULM1-Villabeto-Legada-Villanueva.git
+git clone https://github.com/newdemeia/Lara-Proj-EULM1-VILLABETO-LEGADA-VILLANUEVA.git
 cd Lara-Proj-EULM1-Villabeto-Legada-Villanueva
 composer install
 cp .env.example .env
