@@ -1,7 +1,6 @@
 # Lara-Proj-EULM1-Villabeto-Legada-Villanueva
 
 ## Group Information
-- **Group Name:** (your group name)
 - **Section:** EULM1
 - **Members:**
   - Villabeto (Member 1, Group Leader)
